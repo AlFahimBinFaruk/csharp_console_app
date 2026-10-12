@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# .NET user-specific files
+*.rsuser
+*.sln.ide
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+*.snupkg
